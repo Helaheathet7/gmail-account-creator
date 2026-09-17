@@ -946,8 +946,5 @@ If you find this project useful, please consider giving it a star ⭐ on GitHub!
 
 [Website](https://www.shadowhackr.com) • [Facebook](https://www.facebook.com/ShadowHackr) • [WhatsApp](https://wa.me/962796668987)
 
----
-
 ⭐ **If you like this project, give it a star!** ⭐
-
 </div>

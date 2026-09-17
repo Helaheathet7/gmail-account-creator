@@ -13,8 +13,6 @@ I I'm# 🚀 Gmail Creator Pro - The Ultimate Gmail Account Creator
 
 [Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Support](#-contact--support)
 
----
-
 ![Gmail Creator Pro Interface](gmail.png)
 
 *Screenshot of Gmail Creator Pro v2.0.0 in action*
